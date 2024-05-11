@@ -76,7 +76,7 @@ print(tagged_output)
 ## Cite this Work
 If you use LENS, please cite [our work](https://aclanthology.org/2023.acl-long.905)! 
 
-```tex
+```t
 @inproceedings{maddela-etal-2023-lens,
   title = "{LENS}: A Learnable Evaluation Metric for Text Simplification",
   author = "Maddela, Mounica  and
